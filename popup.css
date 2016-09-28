@@ -1,0 +1,13 @@
+.contacts {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+}
+
+.messages {
+    margin-left: 210px;
+    border-left: 1px solid black;
+    padding: 1em;
+    overflow: hidden;
+}
